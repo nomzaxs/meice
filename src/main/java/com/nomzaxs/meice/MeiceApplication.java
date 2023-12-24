@@ -1,4 +1,4 @@
-package com.meice.meice;
+package com.nomzaxs.meice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
